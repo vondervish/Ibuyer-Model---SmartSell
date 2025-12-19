@@ -1,5 +1,6 @@
 iBuyer Housing Market Analytics
 
+Prototype link - https://smartsell-app.vercel.app/
 data present at - https://utdallas.box.com/s/ieru20yw7zmfcd1cysn5su8fg4p66w5v
 Financial Statements - https://utdallas.box.com/s/axnxfoedjvhctyc4a0ivaqjxiw141h1k
 
@@ -17,3 +18,4 @@ Python, Pandas, NumPy, Excel
 
 Note
 This project is for educational and analytical purposes only. All assumptions, models, and outputs are illustrative and do not represent financial, legal, or investment advice. Real-world outcomes may vary significantly.
+
