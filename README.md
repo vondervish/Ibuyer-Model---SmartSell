@@ -19,3 +19,4 @@ Python, Pandas, NumPy, Excel
 Note
 This project is for educational and analytical purposes only. All assumptions, models, and outputs are illustrative and do not represent financial, legal, or investment advice. Real-world outcomes may vary significantly.
 
+
